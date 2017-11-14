@@ -1,0 +1,15 @@
+
+AdminUsers:
+ SheetName: "Users"
+ LastName: "E"
+ FirstName: "F"
+ UserName: "D"
+ Persona: "H"
+ UserStatus: "G"
+ Profile: "I"
+ UserRefer: ".sitelekta"
+# UserRefer: ".sitnxtelek"
+ UserProdRefer: ".elekta"
+ SitRole: "Sit"
+ Start_Row: 3
+ File_Path: "\\Elekta_1P_Config_Workbook_v1.8.xlsx"
